@@ -1,0 +1,29 @@
+{
+  "title": "Need",
+  "artist": "Kambiz Sharif",
+  "year": 2020,
+  "medium": "cast bronze, 48 pieces",
+  "mass_kg": 1200,
+  "location": {
+    "intersection": "Melville / West Pender / Jervis",
+    "neighbourhood": "Coal Harbour, Vancouver",
+    "approx_address": "1289 West Pender Street",
+    "coordinates": [49.288962, -123.125854]
+  },
+  "published_envelope_mm": { "h": 5180, "w": 3040, "d": 2430 },
+  "units": "mm",
+  "note": "Internal part sizes are interpretive reconstructions from the published envelope and a handheld orbit video. Not a survey.",
+  "parts": [
+    { "id": "plinth", "name": "Square granite plinth", "unique": true, "size_mm": [1400, 1400, 120], "material": "granite" },
+    { "id": "sphere", "name": "Reflective bronze sphere (palm / world of memory)", "unique": true, "diameter_mm": 1900, "material": "bronze" },
+    { "id": "collar", "name": "Folded angular collar joint", "unique": true, "size_mm": [520, 420, 280], "material": "bronze" },
+    { "id": "beam_A", "name": "Beam A — tallest finger / seedling", "unique": true, "length_mm": 3100, "section_mm": [140, 90], "tilt_deg": 18, "yaw_deg": -28, "material": "bronze" },
+    { "id": "beam_B", "name": "Beam B — middle finger", "unique": true, "length_mm": 2700, "section_mm": [140, 90], "tilt_deg": 35, "yaw_deg": 8, "material": "bronze" },
+    { "id": "beam_C", "name": "Beam C — shortest finger", "unique": true, "length_mm": 2300, "section_mm": [140, 90], "tilt_deg": 48, "yaw_deg": 42, "material": "bronze" }
+  ],
+  "source": [
+    "https://www.vancouverbiennale.com/artworks/need/",
+    "Daily Hive 11 Jul 2020",
+    "Handheld orbit video, Aug 2026"
+  ]
+}

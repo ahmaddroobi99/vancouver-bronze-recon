@@ -1,0 +1,35 @@
+{
+  "title": "Spirits in a Landscape",
+  "artist": "Abraham Anghik Ruben, OC",
+  "year": 1992,
+  "medium": "bronze on granite",
+  "location": {
+    "address": "1111 West Georgia Street",
+    "building": "FortisBC Centre (formerly BC Gas Building)",
+    "neighbourhood": "Downtown Vancouver",
+    "corner": "West Georgia and Thurlow"
+  },
+  "units": "mm",
+  "note": "No published survey dimensions found. Height ~3200 mm is estimated from video + pedestrians. CAD is schematic / segmented, not a photogrammetric mesh.",
+  "parts": [
+    { "id": "granite_plinth", "name": "Octagonal granite plinth", "unique": true, "zone": "plinth" },
+    { "id": "bronze_base", "name": "Octagonal bronze base + plaque", "unique": true, "zone": "plinth", "plaque": "Spirits In A Landscape" },
+    { "id": "seal", "name": "Harbour seal", "unique": true, "zone": "base" },
+    { "id": "otter", "name": "Sea otter", "unique": true, "zone": "base" },
+    { "id": "bear_left", "name": "Adult bear (left)", "unique": true, "zone": "lower" },
+    { "id": "bear_right", "name": "Adult bear (right)", "unique": true, "zone": "lower" },
+    { "id": "cub_a", "name": "Bear cub A", "unique": true, "zone": "lower" },
+    { "id": "cub_b", "name": "Bear cub B", "unique": true, "zone": "lower" },
+    { "id": "salmon", "name": "Pacific salmon", "unique": true, "zone": "mid" },
+    { "id": "wolf_a", "name": "Wolf / cougar head A", "unique": true, "zone": "mid" },
+    { "id": "wolf_b", "name": "Wolf / cougar head B", "unique": true, "zone": "mid" },
+    { "id": "eagle_a", "name": "Bald eagle A", "unique": true, "zone": "upper" },
+    { "id": "eagle_b", "name": "Bald eagle B", "unique": true, "zone": "upper" },
+    { "id": "owl", "name": "Owl, wings spread (apex)", "unique": true, "zone": "apex" }
+  ],
+  "cited_but_not_isolated": ["whale", "puma"],
+  "source": [
+    "City of Vancouver Public Art Registry, ArtworkId=301",
+    "Handheld orbit video, Aug 2026"
+  ]
+}
