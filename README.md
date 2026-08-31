@@ -1,19 +1,12 @@
-# vancouver-bronze-recon
+# Vancouver bronze reconstruction — Need and Spirits
 
-360 platform + CAD reconstruction of two Vancouver public bronzes: Need (Kambiz Sharif) and Spirits in a Landscape (Abraham Anghik Ruben)
+360 / CAD reconstruction notes for two Vancouver public bronzes:
 
-This repository is **original work** on this account. It is kept for provenance.
+- **Need** — Kambiz Sharif (`cad/need.scad`, `cad/need.json`)
+- **Spirits in a Landscape** — Abraham Anghik Ruben (`cad/spirits.json`)
 
-It is **not** current research. Featured work:
+OpenSCAD + JSON, not a photogrammetry pipeline and not an official museum scan.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
+---
+Related: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
 
-## Language
-
-OpenSCAD
-
-## Year
-
-2026
